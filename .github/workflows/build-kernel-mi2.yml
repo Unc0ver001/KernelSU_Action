@@ -1,4 +1,4 @@
-name: Build Kernel Xiaomi
+name: Build Kernel Xiaomi 2
 on:
   watch:
     types: [started]
